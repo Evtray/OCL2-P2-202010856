@@ -1,0 +1,15 @@
+digraph G {
+rankdir= TB
+nodonrisxprmvwh[label="Global"]
+nodonrisxprmvwh -> nodoyuh7yqgaa4
+nodoyuh7yqgaa4[label="declaracion"]
+nodoyuh7yqgaa4 -> nodoicb644yjp4g
+nodoicb644yjp4g[label="identificador"]
+nodoicb644yjp4g -> nodoxq2gz5y93c
+nodoxq2gz5y93c[label="@nombre"]
+nodoyuh7yqgaa4 -> nodozz9ov9yq2dh
+nodozz9ov9yq2dh[label="tipo"]
+nodozz9ov9yq2dh -> nodotnipz24vta
+nodotnipz24vta[label="int"]
+nodoyuh7yqgaa4 -> nodo6j3an4xa2u4
+nodo6j3an4xa2u4[label="0"]}
